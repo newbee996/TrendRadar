@@ -1,13 +1,16 @@
-胖东来
-于东来
-
 DeepSeek
-梁文锋
+
+OPenAI
+
+chatgpt
+
+openai
+
+sora
 
 华为
 鸿蒙
 HarmonyOS
-任正非
 
 比亚迪
 王传福
@@ -22,25 +25,6 @@ DJI
 灵犀
 稚晖君
 彭志辉
-
-黑神话
-冯骥
-
-影之刃零
-梁其伟
-
-哪吒
-饺子
-杨宇
-!车
-!餐
-
-三体
-流浪地球
-刘慈欣
-郭帆
-
-申奥
 
 京东
 刘强东
@@ -65,10 +49,6 @@ AMD
 google
 gemini
 deepmind
-
-chatgpt
-openai
-sora
 
 claude
 Anthropic
@@ -99,6 +79,7 @@ ai
 科技
 
 核能
+可控核聚变
 
 水电站
 雅鲁藏布江
@@ -111,3 +92,22 @@ ai
 宇宙
 飞船
 航空
+
+CPI
+PPI
+
+M1
+M2
+
+准备金
+利率
+利息
+汇率
+
+黄金
+比特币
+
+A股
+上证
+深证
++涨跌
