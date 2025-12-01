@@ -96,9 +96,9 @@ notification:
 #  hotness_weight: 0.1 # 热度权重
 
 weight: #适用人群：投资者、研究人员、新闻工作者、需要深度分析趋势的用户
-  rank_weight: 0.4    # 适度看排名
-  frequency_weight: 0.5  # 重视当天内的持续热度
-  hotness_weight: 0.1
+  rank_weight: 0.4    # 0.4适度看排名
+  frequency_weight: 0.5  # 0.5重视当天内的持续热度
+  hotness_weight: 0.1  # 每次只调 0.1-0.2
 
 # name 可以定义任意名称，只具有显示作用，即使项目运行了几天后，忽然改掉 name 也不会影响代码的正常运行
 platforms:
