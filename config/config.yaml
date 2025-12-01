@@ -90,10 +90,15 @@ notification:
     slack_webhook_url: "" # Slack Incoming Webhook URL（格式：https://hooks.slack.com/services/T00000000/B00000000/XXXXXXXXXXXXXXXXXXXXXXXX）
 
 # 用于让关注度更高的新闻在更前面显示，即用算法重新组合不同平台的热搜排序形成你侧重的热搜，合起来是 1 就行
-weight:
-  rank_weight: 0.6 # 排名权重
-  frequency_weight: 0.3 # 频次权重
-  hotness_weight: 0.1 # 热度权重
+#weight:      适用人群：自媒体博主、营销人员、想快速了解当下最火话题的用户
+#  rank_weight: 0.6 # 排名权重
+#  frequency_weight: 0.3 # 频次权重
+#  hotness_weight: 0.1 # 热度权重
+
+weight: #适用人群：投资者、研究人员、新闻工作者、需要深度分析趋势的用户
+  rank_weight: 0.4    # 适度看排名
+  frequency_weight: 0.5  # 重视当天内的持续热度
+  hotness_weight: 0.1
 
 # name 可以定义任意名称，只具有显示作用，即使项目运行了几天后，忽然改掉 name 也不会影响代码的正常运行
 platforms:
